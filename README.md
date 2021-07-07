@@ -12,4 +12,3 @@ A modo de resumen se muestran el contenido del escritortio de trabajo:
    - WEB SCRAPING
    - DATA TREATMENT
    - MACHINE LEARNING
-   - GRÁFICO DE REDES - igraph
